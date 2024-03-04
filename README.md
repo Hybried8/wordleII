@@ -4,21 +4,21 @@ Submitted by: **Oluwatosin Ajakaye**
 
 **WordleII** is the second iteration of wordleI, it is an app that basically similates the game 'wordle' here [https://www.nytimes.com/games/wordle/index.html]
 
-Time spent: **9** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can change the number of letters per row (the length of the goal word)
-- [ ] User can change the numbers of rows on the board (how many guesses allowed)
-- [ ] User can select a new themed set to pull the goal word from
-- [ ] User can select "alien wordle", causing the goal word to change after each guess
+- [✅] User can change the number of letters per row (the length of the goal word)
+- [✅] User can change the numbers of rows on the board (how many guesses allowed)
+- [✅] User can select a new themed set to pull the goal word from
+- [✅] User can select "alien wordle", causing the goal word to change after each guess
 
 
 The following **optional** features are implemented:
 
-- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
+- [✅] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 The following **additional** features are implemented:
 
@@ -28,15 +28,15 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+![](IMG_1336.gif)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Not really any chaallenges on this one, I found it much easier than the first.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Joel]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
